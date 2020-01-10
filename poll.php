@@ -1,9 +1,11 @@
 <?php
-/*
-Plugin Name: Polls
-Description: Show polls with questions, ACF PRO is required
-Version: 1.0.0
-*/
+/**
+ * Plugin Name: Polls
+ * Description: Show polls with questions, ACF PRO is required
+ * Version: 1.0.0
+ * Author: Marko Štimac
+ * Author URI: https://marko-stimac.github.io/
+ */
 
 namespace ms\Poll;
 
